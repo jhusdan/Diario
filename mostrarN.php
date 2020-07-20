@@ -40,6 +40,7 @@
 ?>
     <style>
     
+<<<<<<< HEAD
 body{
     margin:0;
     padding:0;
@@ -71,6 +72,8 @@ color:#fff;
 font-size:10px;
 border-radius:10px;}
 }
+=======
+>>>>>>> 4cfb5edeba1dd1fde483a1bdec0690d703cb9e2c
 
 </style>  
 </body>
